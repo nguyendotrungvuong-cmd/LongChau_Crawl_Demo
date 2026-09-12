@@ -7,6 +7,7 @@ Dự án Demo tự động hóa quy trình thu thập và xử lý dữ liệu s
 * **Công nghệ sử dụng:** Python, Playwright (Cào dữ liệu động & tương tác tự động), Crawl4AI (Lọc sạch nội dung sang Markdown), và Regex (Bóc tách dữ liệu cấu trúc).
 
 ---
+## Cài các thư viện cần thiết: pip install -r Libraby.txt
 
 ## 🔄 Quy trình Pipeline & Chi tiết các file
 
