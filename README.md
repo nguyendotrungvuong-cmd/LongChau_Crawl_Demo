@@ -34,4 +34,4 @@ Hệ thống được chia thành 3 bước độc lập tương ứng với 3 f
 Dữ liệu cuối cùng được tổng hợp trực quan dưới dạng bảng `.csv` giúp dễ dàng tra cứu, thống kê hoặc phục vụ cho các ứng dụng phân tích dữ liệu và AI/RAG.
 
 ## Có sử dụng và tham khảo GEMINI AI
-
+⚠️ Cam kết sử dụng: Mã nguồn và công cụ này chỉ được tạo ra và chia sẻ hoàn toàn với mục đích học tập và nghiên cứu kỹ thuật (Educational & Research purposes).
